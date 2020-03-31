@@ -4,12 +4,13 @@ In dit onderzoeksrapport tracht ik de achterliggende technologieën uit te legge
 
 ## Definitie
 Mobilie data is een permanente verbinding tussen je telefoon en een zendmast. Anders dan bij het plegen van een telefoontje of het sturen van een Sms wordt mobiele data gebruikt voor het laden van webpagina’s, media- en app downloads en software updates. Dit soort gegevensverbinding wordt, zoals de naam misschien al weggeeft, voornamelijk gebruikt bij mobiele telefoons. Maar dit neemt niet weg dat de technologie tegenwoordig ook gestoken wordt in Tablets, Smartwatches, IOT-apparaten en zelfs Laptops. Dit doe je door er een geschikte simkaart in te steken die verbonden is aan een geldig abonnement met een serviceprovider (b.v. Telenet, Mobistar, Proximus, Base, …). Vanaf dat dit in orde is kom je in een constante verbinding te staan met een zendmast die ervoor zorgt dat je je e-mails kan opvragen als ook webpagina’s, facebook posts, ect.
-Volgens: https://www.yourdictionary.com/cellular-data
+
+Bron: https://www.yourdictionary.com/cellular-data
 
 ## De technologie achter mobiele data:
 De technologie is vrij gesofisticeerd maar het principe erachter is verassend eenvouding. Het is vergelijkbaar met de muziek radio’s die iedereen thuis wel heeft staan. Er staat ergens in je buurt een zendmast die een data uitzendt op een bepaalde frequentie. Je telefoon vangt deze signalen op en kan daaruit bepaalde gegevens afleiden die ervoor zorgen dat hij je mails kan weergeven of ‘Het Laatste Nieuws” kan laden in je browser. Nu deze zendmast weet uiteraard niet van zichzelf welke gegevens hij moet doorsturen. Je telefoon kan ook zelf gegevens versturen naar de zendmast zodat hij op zijn beurt weet wat hij moet uitzenden. Om het systeem feilloos te laten werken heb je best meerdere masten z-nodig gezien één mast maar een beperkt bereik heeft (b.v. 10km). Deze masten worden verspreidt over een gebied met gebieden die elkaar overlappen zodat je nooit zonder signaal komt te staan.
 
-Volgens: https://cellularnews.com/now-you-know/in-depth-analysis-of-what-is-cellular-data-how-it-works/
+Bron: https://cellularnews.com/now-you-know/in-depth-analysis-of-what-is-cellular-data-how-it-works/
 
 ## Geschiedenis:
 Mobiele data gaat ondertussen al een tijdje mee. De eerste vorm hiervan is van grond gekomen in Japan. Ze zijn toen in de voornaamste delen van Tokyo een netwerk op poten beginnen zetten waarmee ze gemakkelijk mobiele apparaten met elkaar in verbinding konden zetten. Dit netwerk heeft er amper 5 jaar over gedaan om vervolgens heel Japan te veroveren. Zij werden zo het eerste lande met een volledig 1G netwerk (“1 Generatie). Ter vergelijking: De Scandinavische landen begonnen in 1981 met hun netwerk en de V.S. in 1983. Het netwerk dat ze toen opgezet hebben is anders dan we nu gewoon zijn. De verbindingen verliepen allemaal analoog t.o.v. de digitale verbinding die we nu gewoon zijn. Met de huidige technologie wordt een oproep omgezet naar een gecodeerd digitaal signaal terwijl bij een analoge verbinding het gesprek (de stemmen) worden omgezet naar een hogere frequentie.
@@ -32,6 +33,7 @@ Bron: https://en.wikipedia.org/wiki/3G
 
 Het vervolg op 3G, namelijk 4G begon zijn opmars in 2010. Deze beloofde aanzienlijk veranderingen in snelheid aan de man te brengen. De 4G technologie gaat ervoor zorgen dat je gegevens merkbaar sneller zal kunnen downloaden en uploaden. Waar 3G stopte aan maximum 2Mbps kan je met 4G theoretisch gezien downloaden aan 100Mbps. Deze gegevens zijn uiteraard afhankelijk van vele variabelen: hoe ver sta je van de zendmast, hoe zwaar is deze zendmast belast ect. 
 De eerste versies, LTE en WiMax, die uitkwamen als “4G” waren eigenlijk geen echte 4G netwerken. Hun download snelheden kwam niet eens in buurt van 100Mbps. Toch werden deze door telecommunicatiebedrijven verkocht als 4G netwerken. Het was pas bij de komst van LTA-A (advanced) en WiMax versie 2 dat de kloof van 100Mbps downloadsnelheid bereikt werd. Deze zijn dan in 2013 uitgebracht.
+
 Bron: 
 https://www.wired.com/2010/06/wired-explains-4g/
 https://en.wikipedia.org/wiki/4G
@@ -48,6 +50,7 @@ Mobile netwerken kunnen op verschillende frequenties werken:
 De reactiesnelheid lijkt een futiele eigenschap maar is, met het oog op toekomst, van vitaal belang. Met de opkomst van zelfrijdende auto’s kan deze reactiesnelheid het verschil betekenen tussen leven en dood. Deze wagen zijn in een continue verbinding met Cloud platformen om beslissingen te maken aan de hand van de variabelen die hij onderweg tegenkomt. 
 
 Bron: https://www.digitaltrends.com/mobile/what-is-5g/
+
 ## Mobile data in IOT:
 
 Één van de hoofdzakelijk elementen die aanwezig moeten zijn om een Internet of Things apparaat optimaal te kunnen laten functioneren is uiteraard internet. Dit moet niet enkel aanwezig zijn maar liefst een deftig beveiligd gezien deze toch wel met uitermate delicate informatie in contact komt. Om zo een apparaat met internet te verbinden zijn er meerdere mogelijkheden: WIFI, mobile data of per kabel. Deze laatste is afhankelijk van het aparaat vaak geen beginnen gezien IOT-toestellen vaak ver uit elkaar liggen en met zo een massa aanwezig zijn. Momenteel maakt de grote meerderheid van de apparaten gebruik van WIFI om het internet te bereiken.
@@ -77,5 +80,6 @@ In theorie heeft Wi-Fi een groter bereik dan mobiele data maar dit bereik wordt 
 
 ### Snelheid
 Anno 2020 hebben zowel Wi-Fi als mobiele data de snelheidsdrempel van 1 gigabit per seconde bereikt. Gezien het 5G netwerk haast nergens nog op poten staat heeft Wi-Fi lichtjes de overhand gezien deze een snelheid van 1,3Gbps kan halen. Dit maakt er beide geschikt voor haast elke taak die je maar kan bedenken.  Er is wel één groot nadeel aan een Wi-Fi netwerk. De snelheid van een Wi-Fi netwerk kan drastisch dalen als er meerdere apparaten tegelijkrtijd toegang willen verschaffen tot een netwerk. Bijgevolg heeft dit nadele gevolgen in drukbezetten gebieden.
+
 Bron:
 https://www.verypossible.com/blog/wi-fi-vs-cellular-which-is-better-for-iot
