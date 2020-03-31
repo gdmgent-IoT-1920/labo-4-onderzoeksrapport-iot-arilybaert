@@ -18,11 +18,15 @@ Bron: https://en.wikipedia.org/wiki/1G
 
 ## 2G
 De volgende in lijn was het 2G netwerk (2de Generatie). Sommigen onder ons zullen deze misschien nog goed herinneren. Hoewel men hier in 1991 al mee aan het experimenteren was hebben we hier nog lang gebruik van gemaakt. Met die netwerk kon men niet enkel telefoneren maar ook sms-berichten, MMS-berichten  (multimedia berichten, o.a. foto’s) sturen en zelf toegang krijgen tot het internet. Nog en nieuw gegeven was dat men de verbinding kon coderen wat resulteerde in een betere beveiliging. Binnen het 2G netwerk generaties had 2 versies enerzijds: 2.5G GPRS met een maximum snelheid van 48kbits/s en anderzijds 2.75G EDGE met een maximum snelheid van 300 kbits/s. Tegenwoordig zijn ze bezig met het oprollen van de 2G netwerken gezien we haast enkel nog 3G, voornamelijk 4G en binnenkort ook 5G gebruiken / gaan gebruiken. 
+
 Bron: https://en.wikipedia.org/wiki/2G
 
 ## 3G
 
 De technologische vooruitgang bleef uiteraard niet stil zitten. Een kleine 10-tal jaren later kwam er 3G op de markt. 3G had vele verbeteringen t.o.v. zijn voorganger. Het probleem met 3G zat hem in het uitrollen van het netwerk. 3G werkt namelijk op een hogere frequentie, hierdoor was het heel moeilijk om hetzelfde bereik te creëren als met 2G. Met 2G kan je haast van overal in de wereld een telefoontje plegen. Met 3G was die moeilijker te verkrijgen. Met moet een exponentieel hoger aantal zendmasten plaatsen om alles en iedereen te bereiken. Een mast die een 3G verbinding uitzendt had een veel minder groot bereik. Om dit even aan te kaarten m.b.v. cijfers. Een 2G mast heeft een bereik van 10km terwijl een 3G mast slechts 3km bereik heeft. Zo is het wel duidelijk dat de kosten om een 3g netwerk op te zetten aanzienlijk hoger ligt.
+
+
+Bron: https://en.wikipedia.org/wiki/3G
 
 ## 4G
 
@@ -43,6 +47,7 @@ Mobile netwerken kunnen op verschillende frequenties werken:
 •	Hogefrequentie (>6GHz): Dit spectrum biedt de ideale omgeving voor het ontplooien van een 5G netwerk. Hier kan je snelheden creëren tot wel 10Gb/s met een ongeziene reactiesnelheid. Je zit wel met het grote probleem dat de masten op die spectrum een zeer klein bereik hebben, je gaat er dus enorm veel moeten plaatsen. Het bereik heeft, zoals op de middenfrequentie, moeite met door obstakels heen te gaan. Vanaf dat er een muur tussen zit heb je onmiddellijk minder bereik en gaat de snelheid respectievelijk naar beneden. 
 De reactiesnelheid lijkt een futiele eigenschap maar is, met het oog op toekomst, van vitaal belang. Met de opkomst van zelfrijdende auto’s kan deze reactiesnelheid het verschil betekenen tussen leven en dood. Deze wagen zijn in een continue verbinding met Cloud platformen om beslissingen te maken aan de hand van de variabelen die hij onderweg tegenkomt. 
 
+Bron: https://www.digitaltrends.com/mobile/what-is-5g/
 ## Mobile data in IOT:
 
 Één van de hoofdzakelijk elementen die aanwezig moeten zijn om een Internet of Things apparaat optimaal te kunnen laten functioneren is uiteraard internet. Dit moet niet enkel aanwezig zijn maar liefst een deftig beveiligd gezien deze toch wel met uitermate delicate informatie in contact komt. Om zo een apparaat met internet te verbinden zijn er meerdere mogelijkheden: WIFI, mobile data of per kabel. Deze laatste is afhankelijk van het aparaat vaak geen beginnen gezien IOT-toestellen vaak ver uit elkaar liggen en met zo een massa aanwezig zijn. Momenteel maakt de grote meerderheid van de apparaten gebruik van WIFI om het internet te bereiken.
